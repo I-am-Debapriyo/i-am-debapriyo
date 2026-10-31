@@ -14,7 +14,7 @@ A technically driven Class 10 student (WBBSE) combining engineering logic with m
 | Credential Name | Verification Document | Official Visual Verification |
 | :--- | :--- | :--- |
 | **NASA Open Science 101 Curriculum** | 📄 [OpenScience101_2026.pdf](./OpenScience10120260823-8-k0mtg2.pdf) | <img src="./nasa-open-science-101.png" width="220" alt="NASA Badge"> |
-| **SpaceX Crew-13 Virtual Passenger** | 📄 [Crew-13_Stamp.pdf](./Stamp_Crew-13_Final.pdf) | <img src="./Virtual Guest 6.PassportStamp_Crew-13_Final.pdf" width="220" alt="Crew-13 Stamp"> |
+| **SpaceX Crew-13 Virtual Passenger** | 📄 [Crew-13_Stamp.pdf](./Stamp_Crew-13_Final.pdf) | <img src="./Virtual Guest Passport Stamp_Crew-13_Final.pdf" width="220" alt="Crew-13 Stamp"> |
 | **Nancy Grace Roman Space Telescope** | 📄 [Roman_Telescope.pdf](./Telescope_Final.pdf) | <img src="./explore.PNG" width="220" alt="Space Tech Badge"> |
 
 ---
