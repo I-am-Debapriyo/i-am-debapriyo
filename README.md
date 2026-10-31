@@ -1,45 +1,52 @@
-# Hi there, I'm Debapriyo Mukherjee! 👋
-
-I am a highly motivated Class 10 student and frontend developer from West Bengal, India, passionate about web development, data management, and open-science frameworks.
-
----
-
-### 🚀 Highlights & Certifications
-- 📜 **NASA Open Science 101 Certified** (Issued by NASA Science Mission Directorate)
-- 🌌 **NASA Virtual Guest Passenger** for the Nancy Grace Roman Space Telescope & SpaceX Crew-13 missions
-- 💻 Currently preparing for my **WBBSE Madhyamik Board Examinations**
+# 🌌 Debapriyo Mukherjee
+### *Frontend Developer & NASA-Certified Open Science Enthusiast*
+📍 Hooghly, West Bengal, India 🇮🇳
 
 ---
 
-### 💻 Featured Project
-🌐 **[Digsui Sadhana Banga Vidyalaya Custom Portal](https://i-am-debapriyo.github.io/D.S.B.V-H.S-/)**
-*Designed, coded, and deployed a fully responsive, multi-page custom homepage portal for my school featuring dark mode options, embedded live streams, and announcement feeds.*
+## 📈 Executive Summary
+A technically driven Class 10 student (WBBSE) combining engineering logic with modern frontend development. Recognized by NASA for curriculum completion in open-source research frameworks and active in digital deep-space exploration communities. Deployed highly functional, responsive web infrastructure projects under structural performance constraints.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Frontend Web Dev:** HTML5, CSS3, GitHub Pages deployment
-- **Data & Analytics:** Google Sheets, MS Excel (Data modeling & formulas)
-- **Core Systems:** Logic building, fundamental Python programming concepts, and Prompt Engineering
-- **Languages:** Bengali (Native), English (Professional), Hindi (Conversational), Sanskrit (Academic)
+## 🚀 NASA Credentials & Credentials Vault
+
+| Credential Name | Verification Document | Official Visual Verification |
+| :--- | :--- | :--- |
+| **NASA Open Science 101 Curriculum** | 📄 [OpenScience101_2026.pdf](./OpenScience10120260823-8-k0mtg2.pdf) | <img src="./nasa-open-science-101.png" width="220" alt="NASA Badge"> |
+| **SpaceX Crew-13 Virtual Passenger** | 📄 [Crew-13_Stamp.pdf](./Stamp_Crew-13_Final.pdf) | <img src="./Virtual Guest 6.PassportStamp_Crew-13_Final.pdf" width="220" alt="Crew-13 Stamp"> |
+| **Nancy Grace Roman Space Telescope** | 📄 [Roman_Telescope.pdf](./Telescope_Final.pdf) | <img src="./explore.PNG" width="220" alt="Space Tech Badge"> |
 
 ---
 
-### 📫 Connect With Me
-- 📧 **Email:** debopriyomukherjee712148@gmail.com
-- 📂 **Portfolio & Live Demo:** [i-am-debapriyo.github.io/D.S.B.V-H.S-/](https://i-am-debapriyo.github.io/D.S.B.V-H.S-/)
+## 💻 Flagship Engineering Deployment
 
-<!--
-**I-am-Debapriyo/i-am-debapriyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 [Digsui Sadhana Banga Vidyalaya Portal](https://github.io)
+> **Project Role:** Lead Creator & Frontend Architect
 
-Here are some ideas to get you started:
+A comprehensive digital gateway built directly for my academic institution to streamline communication and school broadcasts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **System Architecture:** Clean semantic HTML5, adaptive structural CSS3 sheets, responsive layout breakpoints.
+- **Integrated Utilities:** Full client-side Dark Mode toggles, dynamic live announcement queues, and automated cross-linking to institutional digital channels.
+- **Resource Management:** Optimized media handling to ensure fast load speeds over standard regional networks.
+
+---
+
+## 🛠️ Technical Competency & Linguistic Stack
+
+### **Development Frameworks**
+- **Core Languages:** HTML5 `||` CSS3 `||` Fundamentals of Python Programming
+- **Systems & Automation:** GitHub Page Deployments, Version Control, Advanced Prompt Engineering 
+- **Analytical Operations:** Mathematical Logic, Advanced Spreadsheets (Google Sheets/Excel)
+
+### **Linguistic Capabilities**
+- 🗣️ **Bengali** (Native Fluency)
+- 🇬🇧 **English** (Professional & Technical Application)
+- 🇮🇳 **Hindi** (Conversational Proficiency)
+- 📜 **Sanskrit** (Academic & Analytical Translation)
+
+---
+
+## 📫 Communication Channels
+- 📧 **Direct Professional Mail:** debopriyomukherjee712148@gmail.com
+- 🏢 **Academic Affiliation:** Digsui Sadhana Banga Vidyalaya (H.S.)
